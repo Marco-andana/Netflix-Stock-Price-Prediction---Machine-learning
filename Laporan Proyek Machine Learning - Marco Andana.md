@@ -60,7 +60,7 @@ Sumber Data diambil dari Kaggle [Netflix Stock Price Prediction](https://www.kag
 
 Gambar diatas merupakan visualisasi dari harga saham netflix dari tahun 2018-2022
 
-![exploratory data analysis](https://github.com/Marco-andana/Netflix-Stock-Price-Prediction---Machine-learning/blob/main/Netflix%20stock%20price%20plot.png)
+![exploratory data analysis](https://github.com/Marco-andana/Netflix-Stock-Price-Prediction---Machine-learning/blob/main/Explorenatory%20Data%20Analysis%20-%20Univariate%20Analysis.png)
 
 Gambar diatas merupakan visualisasi menggunakan histogram dan berdasarkan histogram diatas, dapat ditarik kesimpulan sebagai berikut:
 - Dilihat dari histogram diatas, fitur utama (Open, High, Low, Close, Adj. Close) memiliki sebagian besar nilai pada range 300-600 yang menandakan bahwa harga saham netflix cenderung berada pada rentang nilai tersebut.
@@ -167,15 +167,15 @@ Boosting algorithm adalah salah satu dari dua pendekatan ensembled training. Boo
 ## Evaluation
 Pada tahap evaluasi model, KNN menjadi model yang paling mendekati nilai sebenarnya setelah dilakukan uji coba. Metriks yang digunakan untuk model ini adalah Mean Absolute Error (MAE). Berdasarkan evaluasi dari metrik MAE, dapat disimpulkan bahwa model KNN adalah model yang paling cocok dengan dataset ini karena memiliki error yang paling kecil.
 
-![Gambar Plot]()
+![Gambar Plot](https://github.com/Marco-andana/Netflix-Stock-Price-Prediction---Machine-learning/blob/main/plot%20dengan%20bar%20chart.png)
 
 Gambar plot dengan bar chart dari hasil train dan test.
 
-![Gambar prediksi]()
+![Gambar prediksi](https://github.com/Marco-andana/Netflix-Stock-Price-Prediction---Machine-learning/blob/main/hasil%20prediksi.png)
 
 Gambar prediksi dengan perbandingan antara nilai sebenarnya dan prediksi masing-masing model.
 
-![Gambar evaluasi error dengan Mean Absolute Error(MAE)]()
+![Gambar evaluasi error dengan Mean Absolute Error(MAE)](https://github.com/Marco-andana/Netflix-Stock-Price-Prediction---Machine-learning/blob/main/evaluasi%20error%20dengan%20MAE.png)
 
 Gambar evaluasi error dengan MAE
 
@@ -183,7 +183,7 @@ Gambar evaluasi error dengan MAE
 Mean Absolute Error (MAE) adalah metrik yang mengukur seberapa dekat nilai prediksi model dengan nilai yang sebenarnya pada tugas regresi. MAE menghitung rata-rata selisih absolut antara nilai prediksi dengan nilai sebenarnya.
 
 ### Formula MAE
-![Formula MAE]()
+![Formula MAE](https://github.com/Marco-andana/Netflix-Stock-Price-Prediction---Machine-learning/blob/main/formula%20MAE.png)
 
 ### Cara kerja MAE
 
